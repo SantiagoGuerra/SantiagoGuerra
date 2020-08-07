@@ -6,18 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santiago--guerra/" target="_blank">
-    <img alt="Santiago Guerra on Linkedin" src="assets/linkedin.png" width="32px" height="32px" >
-  </a>
-  <a href="https://twitter.com/dedalo_g" target="_blank">
-    <img alt="Santiago Guerra on Twitter" src="assets/twitter.png" width="32px" height="32px" >
-  </a>
-  <a href="https://hackernoon.com/u/santiago-guerra" target="_blank">
-    <img alt="Santiago Guerra on Hackernoon" src="assets/hackernoon.jpeg" width="32px" height="32px" >
-  </a>
-</p>
-
-<p align="center">
 
 
 Things you should know -
