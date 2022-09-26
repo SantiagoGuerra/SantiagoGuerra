@@ -10,7 +10,7 @@
 
 Things you should know -
 
-- 🔭 <b>Currently working at:</b> <a href="https://www.sundevs.com/">Sundevs Inc.</a>
+- 🔭 <b>Currently working at:</b> <a href="">Linc Learning</a>
 - 📚 <b>Currently learning about:</b> Angular, Dart
 - 🌱 <b>Getting better at:</b> Nest.JS, Agile Software Development, Technical Product Management
 <!-- - 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)-->
